@@ -18,7 +18,7 @@ Provide a button in the table to open a panel to visualize details of single row
 </br>
 
 ## What can be improved on:
-* Proably make the design more beautiful, but mostly I focused on functionality.
+* Probably make the design more beautiful, but mostly I focused on functionality.
 * Currently everytime you refresh by using F5 or refresh button the application reads data again from the txt file. I solved it like this, because I don't have Database where to send the changes and then read them from there again. Currently on refresh it loads data with axios into Redux and every time you interact with website it updates Redux.
 
 </br>
